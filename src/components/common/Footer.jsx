@@ -24,7 +24,7 @@ const Footer = () => {
             {/* Instagram row  */}
             <div className="flex justify-end items-center gap-2 pb-3">
                 <InstagramGradientIcon size={18} />
-                <span className="text-md font-bold text-gray-800">@neonspark_photography</span>
+                <span className="text-md font-bold text-gray-800">@neonspark.photography</span>
             </div>
 
             {/* Full-width black divider line */}

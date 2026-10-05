@@ -157,7 +157,7 @@ const TermsConditions = () => {
                 {/* Instagram */}
                 <div className="flex justify-end items-center gap-2 pr-10 pt-2 pb-3">
                     <InstagramIcon size={17} />
-                    <span className="text-md font-bold text-gray-800">@neonspark_photography</span>
+                    <span className="text-md font-bold text-gray-800">@neonspark.photography</span>
                 </div>
 
                 <div className="w-[92%] mx-auto rounded-2xl border-t-4 border-black" />
